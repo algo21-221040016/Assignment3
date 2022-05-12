@@ -170,7 +170,6 @@ test_pred=gbm.predict(test_select, num_iteration=gbm.best_iteration)
 
 ID=pd.read_csv('招行testIDB.csv')
 ID['prob']=test_pred
-ID.to_csv('D:\CUHKSZ第二学期\招行fintech'+ 'test_B_4.txt', sep='\t',index=False, header = False)
 
 
 # In[ ]:

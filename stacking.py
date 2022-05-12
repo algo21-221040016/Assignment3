@@ -141,9 +141,6 @@ ID['prob']=final_pre[:,1]
 # In[11]:
 
 
-ID.to_csv('D:\CUHKSZ第二学期\招行fintech'+ 'test_A.txt', sep='\t',index=False, header = False)
-
-
 # In[ ]:
 
 

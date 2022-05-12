@@ -1,7 +1,7 @@
 # Assignment3
 
-In this assignment, I participated in a data-analysis competition and 
-try to apply machine learning in the project.
+In this assignment, I tried to use the machine learning method
+to participate in a data-analysis competition.
 
 #Note:
 The detailed data can not be uploaded to github due to the request
